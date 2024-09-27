@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://horayfan.github.io/sitemap.horayfan.gz
+Sitemap: https://horayfan.github.io/app/sitemap.horayfan.gz
+Sitemap: https://horayfan.github.io/assets/sitemap.horayfan.gz
+Sitemap: https://horayfan.github.io/css/sitemap.horayfan.gz
+Sitemap: https://horayfan.github.io/data/sitemap.horayfan.gz
+Sitemap: https://horayfan.github.io/includes/sitemap.horayfan.gz
+Sitemap: https://horayfan.github.io/item/sitemap.horayfan.gz
+Sitemap: https://horayfan.github.io/src/sitemap.horayfan.gz
